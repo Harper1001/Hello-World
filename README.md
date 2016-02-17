@@ -1,2 +1,3 @@
 # Hello-World
-Learning GitHyb
+Learning GitHub
+
